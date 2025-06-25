@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+
+
+# System files
+.DS_Store
+
+
+# Model weights or datasets
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.zip
